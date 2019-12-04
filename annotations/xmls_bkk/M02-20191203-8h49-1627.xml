@@ -1,0 +1,26 @@
+<annotation>
+	<folder>M02-20191203-8h49</folder>
+	<filename>M02-20191203-8h49-1627.jpg</filename>
+	<path>/home/mina/PythonLibs/data-trainning/source_images/M02-20191203-8h49/M02-20191203-8h49-1627.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>parcel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>891</xmin>
+			<ymin>200</ymin>
+			<xmax>905</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+</annotation>

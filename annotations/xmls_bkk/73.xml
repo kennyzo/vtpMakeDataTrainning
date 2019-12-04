@@ -1,0 +1,26 @@
+<annotation>
+	<folder>out_images</folder>
+	<filename>73.jpg</filename>
+	<path>/home/mina/Desktop/out_images/73.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>parcel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>687</xmin>
+			<ymin>537</ymin>
+			<xmax>745</xmax>
+			<ymax>592</ymax>
+		</bndbox>
+	</object>
+</annotation>
